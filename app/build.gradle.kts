@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.xcanplayer_final2"
-    compileSdk = 34
+    namespace = "com.cnanfc.xcanplayer_final2"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.xcanplayer_final2"
+        applicationId = "com.cnanfc.xcanplayer_final2"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 1
+        targetSdk = 35
+        versionCode = 2
         versionName = "1.0"
     }
 

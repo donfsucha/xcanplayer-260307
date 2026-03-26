@@ -1,4 +1,4 @@
-package com.example.xcanplayer_final2;
+package com.cnanfc.xcanplayer_final2;
 
 import android.content.Context;
 

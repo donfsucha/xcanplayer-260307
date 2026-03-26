@@ -1,4 +1,4 @@
-package com.example.xcanplayer_final2;
+package com.cnanfc.xcanplayer_final2;
 
 import org.junit.Test;
 
@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
- *
+ *cnanfc
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 public class ExampleUnitTest {
