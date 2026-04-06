@@ -11,6 +11,7 @@ import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.cnanfc.xcanplayer_final2.R
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
